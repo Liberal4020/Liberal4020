@@ -14,7 +14,7 @@
 - Typescript
 - C
 
-## Technologies
+<!-- ## Technologies
 
 - Vue
-- React
+- React -->
